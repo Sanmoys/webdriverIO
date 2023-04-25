@@ -19,7 +19,7 @@ module.exports = defineConfig({
      * Maximum time expect() should wait for the condition to be met.
      * For example in `await expect(locator).toHaveText();`
      */
-    timeout: 100000
+    timeout: 10000
   },
   /* Run tests in files in parallel */
   fullyParallel: true,
