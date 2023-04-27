@@ -9,3 +9,6 @@ test-results/
 playwright_JS/
 tests-examples/
 Order_Screenshot4.png/
+/test-results/
+/playwright-report/
+/playwright/.cache/
